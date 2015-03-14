@@ -1,0 +1,1 @@
+This plugin provoides intellij idea keyscheme to eclipse
